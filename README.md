@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mariia-Sharova
 - 👀 I’m interested in data analytics, Python, SQL 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data analytics
+- 💞️ I’m looking to collaborate on cool projects 
 - 📫 How to reach me t.me/Mar_s_a
 
 <!---
